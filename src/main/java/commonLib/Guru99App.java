@@ -10,7 +10,6 @@ import java.net.URL;
 
 public class Guru99App {
     public static AndroidDriver<AndroidElement> driver;
-//    public static AndroidDriver<AndroidElement> driver;
     public static void openGuru99App() throws MalformedURLException {
         DesiredCapabilities cap = new DesiredCapabilities();
 
